@@ -4,3 +4,12 @@ body {
 h1 {
   text-align: center;
 }
+  .caixal {
+    position: absolute;
+    background: #336689
+    color: #FFFFFF;
+    width: 200px
+    height: 200px
+    right: 0;
+    bottom: 0;
+  }
