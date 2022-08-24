@@ -105,3 +105,8 @@ li a:hover {
   position: absolute;
   top: 45px;
 }
+
+.listaMusica {
+  float: none;
+
+}
